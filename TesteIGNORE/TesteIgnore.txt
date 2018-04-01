@@ -1,0 +1,7 @@
+< Php
+
+
+	Teste Git é nós na fita
+	do versionamento cambada
+
+.php>
